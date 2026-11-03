@@ -1,0 +1,2 @@
+# MERN-CRUD-APP
+A simple CRUD APP using the MERN STACK
